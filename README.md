@@ -5,11 +5,11 @@
 </div>
 <div align="center">
   <h1>:man_technologist: About Me</h1>
-  <l i> I like computers and programming.</li>
-  <li> C# was my first language I got introduced to programming by game dev. </li>
-  <li> I Don't like to read books.</li>
-  <li> I Believe that open source software is better than proprietary garbage. </li>
-  <li> Reach Me: virajlalsare9@gmail.com</li>
+  <li align="left"> I like computers and programming.</li>
+  <li align="left"> C# was my first language I got introduced to programming by game dev. </li>
+  <li align="center"> I Don't like to read books.</li>
+  <li align="center"> I Believe that open source software is better than proprietary garbage. </li>
+  <li align="center"> Reach Me: virajlalsare9@gmail.com</li>
 </div>
 
 <div align="center">
