@@ -1,6 +1,6 @@
 <div id="header" align="center">
+  <h1>Hello, 👋 </h1>
   <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=210 />
-  <p> Hello, 👋 </p>
   <a href="https://zook780.github.io/Website">Website !</a>
 </div>
 <div align="left">
