@@ -10,7 +10,7 @@
 ---
 
 <div align="left">
-  <h1>:man_technologist: About Me</h1>
+  ### :man_technologist: About Me
   <li > I like computers and programming.</li>
   <li> C# was my first language I got introduced to programming by game dev. </li>
   <li> I Don't like to read books.</li>
