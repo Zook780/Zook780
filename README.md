@@ -2,14 +2,11 @@
   <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=210 />
 </div>
 
-### Hello, 👋
+### Hello, there 👋
   
-<div align="center">
-  <a href="https://zook780.github.io/Website">Website !</a>
-</div>
+- href="https://zook780.github.io/Website"
 
 ---
-
 
 ### 👨‍💻 About Me
 - 💻 I like computers and programming.</li>
@@ -18,7 +15,6 @@
 - 🧠 I believe that open source software is better than proprietary garbage. </li>
 - 🐧 I use arch linux btw
 - 📨 Reach Me: virajlalsare9@gmail.com</li>
-
 
 ---
 
