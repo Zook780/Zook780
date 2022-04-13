@@ -5,7 +5,7 @@
 <a href="https://zook780.github.io/Website">Website !</a>
 
 <div align="center">
-  ### :man_technologist: About Me
+  ## :man_technologist: About Me
   <l i> I like computers and programming.</li>
   <li> C# was my first language I got introduced to programming by game dev. </li>
   <li> I Don't like to read books.</li>
