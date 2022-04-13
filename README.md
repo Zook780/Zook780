@@ -1,10 +1,10 @@
 <div id="header" align="center">
-  <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=400 />
+  <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=300 />
   <p> Hello, 👋 </p>
   <a href="https://zook780.github.io/Website">Website !</a>
 </div>
 <div align="center">
-  # :man_technologist: About Me
+  <h1>:man_technologist: About Me</h1>
   <l i> I like computers and programming.</li>
   <li> C# was my first language I got introduced to programming by game dev. </li>
   <li> I Don't like to read books.</li>
