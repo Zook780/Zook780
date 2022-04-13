@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=180 />
-  <img src="https://i.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.webp" width=180 />
+  <img src="https://i.pinimg.com/originals/ee/6e/d5/ee6ed5945d444fb5046149386acec4c8.gif" width=200 />
 </div>
 
 ### Hello, there 👋
