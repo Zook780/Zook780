@@ -9,14 +9,14 @@
 
 ---
 
-<div align="left">
-  ### :man_technologist: About Me
-  <li > I like computers and programming.</li>
-  <li> C# was my first language I got introduced to programming by game dev. </li>
-  <li> I Don't like to read books.</li>
-  <li> I Believe that open source software is better than proprietary garbage. </li>
-  <li> Reach Me: virajlalsare9@gmail.com</li>
-</div>
+
+### :man_technologist: About Me
+<li > I like computers and programming.</li>
+<li> C# was my first language I got introduced to programming by game dev. </li>
+<li> I Don't like to read books.</li>
+<li> I Believe that open source software is better than proprietary garbage. </li>
+<li> Reach Me: virajlalsare9@gmail.com</li>
+
 
 ---
 
