@@ -1,15 +1,15 @@
 <div id="header" align="center">
-  <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=300 />
+  <img src="https://68.media.tumblr.com/4a99bd0463ccda299873ab0e426c0aaa/tumblr_oe2eunVAFv1tqhb9uo1_540.gif" width=210 />
   <p> Hello, 👋 </p>
   <a href="https://zook780.github.io/Website">Website !</a>
 </div>
-<div align="center">
+<div align="left">
   <h1>:man_technologist: About Me</h1>
-  <li align="left"> I like computers and programming.</li>
-  <li align="left"> C# was my first language I got introduced to programming by game dev. </li>
-  <li align="center"> I Don't like to read books.</li>
-  <li align="center"> I Believe that open source software is better than proprietary garbage. </li>
-  <li align="center"> Reach Me: virajlalsare9@gmail.com</li>
+  <li > I like computers and programming.</li>
+  <li> C# was my first language I got introduced to programming by game dev. </li>
+  <li> I Don't like to read books.</li>
+  <li> I Believe that open source software is better than proprietary garbage. </li>
+  <li> Reach Me: virajlalsare9@gmail.com</li>
 </div>
 
 <div align="center">
