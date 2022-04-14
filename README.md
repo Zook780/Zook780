@@ -6,11 +6,11 @@
 ### Hello, there 👋
   
 - I am zook, or in the internet.
-- Linux enthusiast and a kid yes 😑
+- Linux enthusiast and a programmer.
   
 ---
 
-### Social
+### Social 🌐
 <a href="https://zook780.github.io/Website">Website</a>
 
 ---
