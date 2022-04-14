@@ -27,6 +27,6 @@
 
 ### Stats 🖊
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zook780&theme=dark&background=000000)]
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zook780&theme=dark&background=000000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zook780&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zook780&layout=compact&theme=vision-friendly-dark)
