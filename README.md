@@ -20,12 +20,12 @@
 - 🛠️ C# was my first language I got introduced to programming by game dev. </li>
 - 📚 I don't like to read books.</li>
 - 🧠 I believe that open source software is better than proprietary garbage. </li>
-- 🐧 I use arch linux btw
+- 🐧 I use arch linux btw.
 - 📨 Reach Me: virajlalsare9@gmail.com</li>
 
 ---
 
-### Stats
+### Stats 🖊
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Zook780&theme=dark&background=000000)](https://git.io/streak-stats)
 
